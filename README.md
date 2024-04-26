@@ -14,4 +14,4 @@ O BicosFix é um aplicativo que visa conectar pessoas que precisam de serviços 
 
 - [Backlog](https://github.com/pauloEzequiel/mvp-gestao-agil-projetos-produtos/blob/main/Backlog/product%20_and_sprint_backlog.pdf)
 
-- [Apresentação]()
+- [Apresentação](https://drive.google.com/file/d/1ZBuPJdAzo0gioWbwLu3Hg67sh3Txgm5s/view?usp=sharing)
